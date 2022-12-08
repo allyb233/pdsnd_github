@@ -9,6 +9,7 @@ Udacity Programming for Data Science with Python Project 3
 
 ### Description
 Describe what your project is about and what it does
+This project includes the previous bikeshare.py file created in Project 2.
 
 ### Files used
 Uploaded bikeshare.py file
