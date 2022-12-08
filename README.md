@@ -3,6 +3,7 @@
 ### Date created
 Include the date you created this project and README file.
 This project was created on December 8, 2022.
+This project and README file were created on December 8, 2022.
 
 ### Project Title
 Udacity Programming for Data Science with Python Project 3
