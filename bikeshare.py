@@ -25,7 +25,7 @@ def get_filters():
             continue
         else:
             break
-    # TO DO: get user input for month (all, january, february, ... , june)
+    # TO DO: get user to input which month they would like to view data for (all, january, february, ... , june)
     while True:
         month = input("Which month would you like to view data for? January, February, March, April, May, or June? If you wish to view all months, type 'all'. \n")
         if month not in ('january', 'february', 'march', 'april', 'may', 'june', 'all'):
